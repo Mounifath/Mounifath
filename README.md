@@ -32,4 +32,7 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
+Je suis Mounifatou OURO-MAH débutante dans le domaine de développement web, web mobile a Energy-Generation.
+Pour le  moment je ne maîtrise pas grande chose.Mais d'ici j'aurais des compétences.
+J'aimerais de devenir un front end mais a la suite une développeuse Fullstack
 
